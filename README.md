@@ -2832,7 +2832,7 @@ Response:{
         interaction_depth: {
             avg_orbs_per_session: 3.2,
             goal: 3.0,
-            status: "✅ Meeting goal",
+            status: "Meeting goal",
             distribution: {
                 "0 orbs": 2341,
                 "1-2 orbs": 4123,
@@ -2843,7 +2843,7 @@ Response:{
         sensor_engagement: {
             percentage: 67.8,
             goal: 60.0,
-            status: "✅ Exceeding goal"
+            status: "Exceeding goal"
         },
         constellation_growth: {
             capture_rate: 0.42,  // 42% of sessions result in capture
